@@ -47,12 +47,12 @@ body{
 }
 
 /* Background image */
-@media screen and (max-width: 375px){
+@media screen and (max-width: 800px){
     .main{
         background-image: url("images/bg-mobile.svg");
     }
 }
-@media screen and (min-width: 376px){
+@media screen and (min-width: 801px){
     .main{
         background-image: url("images/bg-desktop.svg");
     }
