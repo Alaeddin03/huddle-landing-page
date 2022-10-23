@@ -1,5 +1,5 @@
-# huddle-landing-page
-with single introductory section master
+# Huddle Landing Page
+
 
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
